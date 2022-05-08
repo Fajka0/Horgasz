@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Horgász webárúház</string>
+    <string name="registration">Regisztráció</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="loginGoogle">Bejelentkezés Google Fiókkal</string>
+    <string name="guest">¯\\_(ツ)_/¯</string>
+    <string name="password">Jelszó</string>
+    <string name="name">Email</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">Email</string>
+    <string name="password_again">Jelszó újra</string>
+    <string name="cancel">Kilépés</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Cím</string>
+    <string name="account_type">Fiók típusa</string>
+    <string name="customer">Vásárló</string>
+    <string name="seller">Eladó</string>
+    <string name="product_description">Termék leírása.</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor diam fringilla tellus, eu euismod mauris neque at neque.</string>
+    <string name="to_cart">Kosárba</string>
+    <string name="delete">Törlés</string>
+
+
+    <string-array name="phone_labels">
+        <item>Otthon</item>
+        <item>Munkahely</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+    <string-array name="shopping_item_names">
+        <item>Etetőhajó</item>
+        <item>Horgászbot</item>
+        <item>Notzsák</item>
+        <item>Olom</item>
+        <item>Orsó</item>
+        <item>Promix</item>
+        <item>Tornado</item>
+        <item>Rodpod</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Ez egy etetőhajó, ha érdekel irj és megbeszéljük a részleteket. 250-300m hat+tćv 2,5-3km bír az aksi egy feltöltéssel. Bátmi kérdésed van keress bátran Fajka Viktor </item>
+        <item>Ez egy Horgászbot!</item>
+        <item>Ez egy Botzsák!</item>
+        <item>Ez egy Olom!</item>
+        <item>Ez egy Orsó!</item>
+        <item>Ez egy Promix csali!</item>
+        <item>Ez egy Tornado csali!</item>
+        <item>Ez egy Rodpod!</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>5</item>
+        <item>3</item>
+        <item>4</item>
+        <item>1.5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>4</item>
+
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/etetohajo</item>
+        <item>@drawable/bot</item>
+        <item>@drawable/bot_zsak</item>
+
+        <item>@drawable/olom</item>
+        <item>@drawable/orso</item>
+        <item>@drawable/promix</item>
+        <item>@drawable/tornado</item>
+        <item>@drawable/rodpod</item>
+
+    </array>
+
+    <array name="shopping_item_price">
+        <item>180000 Ft</item>
+        <item>30000 Ft</item>
+        <item>15000 Ft</item>
+        <item>1500 Ft</item>
+        <item>10000 Ft</item>
+        <item>1200 Ft</item>
+        <item>20000 Ft</item>
+        <item>2500 Ft</item>
+        <item>3000 Ft</item>
+        <item>30000 Ft</item>
+    </array>
+</resources>
